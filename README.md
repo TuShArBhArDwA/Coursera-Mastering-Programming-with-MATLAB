@@ -1,5 +1,4 @@
-Coursera-Mastering-Programming-with-MATLAB
-==========================================
+# Coursera-Mastering-Programming-with-MATLAB
 
 Instructor: [Mike Fitzpatrick](https://www.coursera.org/instructor/mikefitzpatrick)
 
@@ -7,7 +6,6 @@ Instructor: [Mike Fitzpatrick](https://www.coursera.org/instructor/mikefitzpatri
 <tr>
 <td>
 A collection of <i>Course Files</i>, <i>Programming Assignments</i> and <i>Final Project</i> for <a href="https://www.coursera.org/learn/advanced-matlab-programming?specialization=matlab-programming-engineers-scientists">Mastering Programming with MATLAB</a>.
-I took this online course on Coursera platform during August-September, 2021. (<a href="https://www.coursera.org/account/accomplishments/certificate/D44X4J9UFN9X">Certificate of Completion</a>)
 </td>
 </tr>
 </table>
@@ -15,6 +13,7 @@ I took this online course on Coursera platform during August-September, 2021. (<
 > DISCLAIMER: Please do not simply copy the code without trying to solve the problems yourself in the first place. The author reserves all rights but does not be liable in any event (e.g., plagiarism) caused by the use of the program. Remember that one can only learn programming by doing it. Have fun coding!😃
 
 ### Overview
+
 This course is the second part of the specialization [MATLAB Programming for Engineers and Scientists Specialization](https://www.coursera.org/specializations/matlab-programming-engineers-scientists), offered by Vanderbilt University.
 It covers more advanced MATLAB programming concepts such as **recursion**, **vectorization**, **function handles**, **algorithm complexity and efficiency**, **error handling**, etc..
 It also presents many powerful features of MATLAB including **object-oriented programming**, **graphical user interface design environment (App Designer)** and **Live Scripts**.
@@ -32,6 +31,7 @@ The data obtained from the [Coronavirus Resource Center at the Johns Hopkins Uni
 </p>
 
 #### Features
+
 - Axes for displaying plots
 - A list box for countries
 - A list box for states/regions
@@ -45,10 +45,12 @@ The data obtained from the [Coronavirus Resource Center at the Johns Hopkins Uni
 - A toolbar for different functionalities
 
 #### How to run the program?
+
 - If you have MATLAB installed, open MATLAB and run the file `MyCovid19App.mlapp`
 - If you do not have MATLAB installed and use Windows on your machine, run the standalone executable `MyCovid19App.exe`
 
 ---
 
 ### Contact
-If you have any question or suggestion, feel free to contact me at huaming.huang.tw@gmail.com. Contributions are also welcomed. Please open a [pull-request](https://github.com/huaminghuangtw/Coursera-Mastering-Programming-with-MATLAB/compare) or an [issue](https://github.com/huaminghuangtw/Coursera-Mastering-Programming-with-MATLAB/issues/new) in this repository.
+
+If you’d like to connect, feel free to reach out — [Click here](https://minianonlink.vercel.app/tusharbhardwaj). Contributions are also welcomed. Please open a [pull-request](https://github.com/TuShArBhArDwA/Coursera-Mastering-Programming-with-MATLAB/compare) or an [issue](https://github.com/TuShArBhArDwA/Coursera-Mastering-Programming-with-MATLAB/issues/new) in this repository.
